@@ -1,4 +1,4 @@
-# Self Organzing Lists
+# Self Organizing Lists
 Implement the three self-organizing list heuristics:
 
 •	Count – Whenever a record is accessed it may move toward the front of the list if its number of accesses becomes greater than the record(s) in front of it.
